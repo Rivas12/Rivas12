@@ -19,13 +19,10 @@ Aqui estão algumas das ferramentas que utilizo para transformar ideias em códi
 - **Banco de Dados**: MySQL, SQL
 - **Versionamento**: Git, GitHub  
 - **Front-End**: HTML5, CSS3, JavaScript, Bootstrap  
-- **Ferramentas**: Postman, Docker, Heroku, VS Code
+- **Ferramentas**: Postman, Docker, Heroku, Vercel
 
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=99ff00)  
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python&logoColor=99ff00)  
-![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask&logoColor=99ff00)  
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=99ff00)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-badge&logo=javascript&logoColor=99ff00)  
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=99ff00) ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python&logoColor=99ff00) ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask&logoColor=99ff00) ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=99ff00) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-badge&logo=javascript&logoColor=99ff00)  
+
 
 ---
 
@@ -38,7 +35,7 @@ Em projetos anteriores, trabalhei com **APIs**, **microserviços** e **integraç
 
 ## 📚 Educação
 **Faculdade Impacta** — Análise e Desenvolvimento de Sistemas  
-*2022 - Atual*
+*2022 - Finalizado*
 
 ---
 
