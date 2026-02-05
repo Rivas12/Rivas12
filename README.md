@@ -57,17 +57,3 @@ Python para análise de dados · SQL avançado · ETL · Visualização de dados
 
 **Senac**  
 *HTML5 e CSS3 (2018)*
-
----
-
-## 🎯 Objetivo
-
-Atuar como **Analista de Dados ou Analytics Engineer**, trabalhando com dados de ponta a ponta — da coleta à transformação e visualização — entregando **insights acionáveis**, automação de processos e suporte à tomada de decisão estratégica.
-
----
-
-## 🌐 Idiomas
-
-**Inglês**  
-- Leitura e Escrita: Intermediário  
-- Conversação: Básico
