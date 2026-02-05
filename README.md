@@ -1,5 +1,5 @@
 # 👨‍💻 Rivaldo Silveira  
-**Desenvolvedor Back-End | Graduado em Análise e Desenvolvimento de Sistemas**
+**Analista de Dados | Analytics Engineer | Python & SQL**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-96ff00?style=flat-square&logo=Linkedin&logoColor=black)](https://www.linkedin.com/in/rivaldosilveira/)  
 [![Email](https://img.shields.io/badge/-rivaldosilveira13@gmail.com-96ff00?style=flat-square&logo=Gmail&logoColor=black)](mailto:rivaldosilveira13@gmail.com)
@@ -8,38 +8,49 @@
 
 ## 👋 Sobre mim
 
-Sou **Rivaldo Silveira**, desenvolvedor back-end com foco em **Python**, **Flask** e **Java**. Iniciei na programação em 2016 criando mods para Minecraft, o que despertou meu interesse por tecnologia. Desde então, venho atuando com APIs, microserviços, integrações e deploys modernos utilizando Docker e Nginx.
+Sou **Analista de Dados** com forte base em **engenharia de software**, especializado em **Python, SQL e modelagem de dados**. Venho do back-end, o que me dá vantagem direta em **automação, performance, versionamento e construção de pipelines de dados sólidos**.
 
-Graduado em **Análise e Desenvolvimento de Sistemas** pela **Faculdade Impacta**, estou sempre buscando aprimorar minhas habilidades com projetos reais, aprendizado contínuo e colaboração com equipes técnicas.
+Atuo com **extração, transformação e análise de dados**, integração com APIs, construção de pipelines, organização e estruturação de dados para tomada de decisão. Perfil analítico, foco em eficiência e zero tolerância para dados mal modelados ou processos manuais desnecessários.
 
 ---
 
-## ⚙️ Tecnologias e Ferramentas
+## 📊 Stack de Dados
 
-**Back-End:**  
-`Python` · `Flask` · `Java` · `Spring Boot` · `Node.js`
-
-**Front-End:**  
-`HTML5` · `CSS3` · `JavaScript` · `Bootstrap` · `jQuery`
+**Linguagens & Análise:**  
+`Python` · `SQL` · `Pandas` · `NumPy`
 
 **Banco de Dados:**  
-`MySQL` · `SQLite` · `SQLAlchemy`
+`MySQL` · `SQLite` · `PostgreSQL`  
+Modelagem relacional · Queries complexas · Otimização
 
-**Testes:**  
-`JUnit`
+**ETL / Automação:**  
+`Python Scripts` · `APIs REST` · `Webhooks` · `SQLAlchemy`
 
-**DevOps / Deploy:**  
-`Docker` · `Nginx` · `Heroku` · `Vercel` · `Regis`
+**Visualização & BI:**  
+`Power BI` · `Metabase` · `Dashboards Analíticos`
 
-**APIs & Integrações:**  
-`REST` · `Stripe API` · `ChatGPT API` · `Manychat` · `Webhooks`
+**Engenharia & Boas Práticas:**  
+`Git` · `Docker` · `Versionamento` · `Ambientes Reprodutíveis`
 
-**Outros:**  
-`Git` · `GitHub` · `Maven` · `Bcrypt` · `Postman`
+**Cloud & Deploy:**  
+`Docker` · `Nginx` · `Heroku` · `Vercel`
+
+---
+
+## 🧠 Diferencial Técnico
+
+- Base sólida em **engenharia de software aplicada a dados**
+- Facilidade para lidar com **dados desestruturados e múltiplas fontes**
+- Construção de **pipelines reutilizáveis, escaláveis e auditáveis**
+- Comunicação clara entre **dados, produto e negócio**
 
 ---
 
 ## 🎓 Formação Acadêmica
+
+**Mate Academy**  
+*Data Analytics (Concluído)*  
+Python para análise de dados · SQL avançado · ETL · Visualização de dados · Análise orientada a negócio
 
 **Faculdade Impacta**  
 *Análise e Desenvolvimento de Sistemas (2020 – 2024)*
@@ -47,14 +58,11 @@ Graduado em **Análise e Desenvolvimento de Sistemas** pela **Faculdade Impacta*
 **Senac**  
 *HTML5 e CSS3 (2018)*
 
-**Udemy**  
-*Desenvolvimento Web - Crie 6 Projetos (2019)*
-
 ---
 
 ## 🎯 Objetivo
 
-Atuar como **desenvolvedor back-end** em projetos desafiadores, contribuindo com código limpo, eficiente e escalável. Estou pronto para colaborar com equipes técnicas, aprender novas tecnologias e entregar soluções de alto nível.
+Atuar como **Analista de Dados ou Analytics Engineer**, trabalhando com dados de ponta a ponta — da coleta à transformação e visualização — entregando **insights acionáveis**, automação de processos e suporte à tomada de decisão estratégica.
 
 ---
 
